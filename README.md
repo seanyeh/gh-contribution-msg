@@ -7,7 +7,7 @@ Github
 
 ## Usage
 1. First, create an empty repo on Github.
-2. Run: `gh_contribution_msg.py USERNAME REPO MESSAGE`
+2. Run: `gh_create_msg.py USERNAME REPO MESSAGE`
 
    (Note that this will create a repository in your current directory.)
 
